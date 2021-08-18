@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+section{
+    padding: 4%;
+    height: 450px;
+    background-repeat: repeat;
+    display: block;
+}
+.section-header{
+    background-image: url(images/header-bg.png);
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.secondHalf{
+    margin-left: 5%;
+}
+img{
+    width: 100%;
+    display: block;
+}
+.padr{
+    padding-right: 5%;
+}
+h2{
+    font-size: 40px;
+}
+.jahed{
+    font-size: 45px;
+    color: rgb(255, 49, 49);
+}
+.text{
+    margin: 15px 0;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    font-weight: 300;
+}
+.btn{
+    color: white;
+    background-color: rgba(240, 79, 79, 0.89);
+    padding: 2.5%;
+    margin-top: 4%;
+    border: 1px solid red;
+    border-radius: 6%;
+    transition: all .3s ease;
+    width: 20%;
+    text-transform: uppercase;
+    font-size: 15px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+.btn-width{
+    width: 35%;
+}
+.btn:hover{
+    color: black;
+    background-color: rgba(0, 60, 255, 0.555);
+    border: 1px solid rgb(162, 0, 255);
+}
+.center{
+    text-align: center;
+    margin-bottom: 3%;
+}
+.latest-work{
+    background: url(images/)
+}
+.single{
+    width: 30%;
+    float: left;
+    padding: 1%;
+}
+.mauto{
+    margin: auto;
+}
+.text-width{
+    width: 40%;
+}
+.div-color{
+    background-color: rgb(162, 0, 255);
+    width: 50%;
+    height: 15%;
+    margin-top: 2%;
+    padding: 2%;
+}
+footer p{
+    text-align: center;
+    padding-bottom: 3%;
+}
